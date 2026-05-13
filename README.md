@@ -17,4 +17,20 @@ This project demonstrates hosting a LAMP application using Linux, Apache, MySQL,
 - PHP application support
 - Scalable deployment
 
-  
+## 📸 Project Screenshots
+
+### 1. EC2 Instances
+This shows the EC2 instance hosting the LAMP application.
+![EC2](Insatnces.png)
+
+### 2. Apache Web Server
+This shows the Apache default web page running on the server.
+![Apache](Apache%202%20Default%20Page%20ScreenShort.png)
+
+### 3. RDS Database
+This shows the MySQL RDS database configuration.
+![RDS](RDS%20Databases.png)
+
+### 4. User Data Configuration
+This shows the EC2 user-data script used for application setup.
+![UserData](User%20Data.jpeg)
